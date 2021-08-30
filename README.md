@@ -34,20 +34,15 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <p align="center">
     <a href="https://github.com/POOL4T7/github-readme-stats"><img alt="POOL4T7 Github Stats" src="https://github-readme-stats.vercel.app/api?username=POOL4T7&show_icons=true&count_private=true&theme=github&hide_border=false&bg_color=fff" /></a>
-    <br/>
-  <br/>
+
 </p>
-  <br/>
-<br/>
 
 ## Connect with me:
 
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/cap-pool/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/gulshan4t7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/gulshan4t7/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
 
 <!-- ## ❤ Views and Followers
