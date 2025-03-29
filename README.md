@@ -1,12 +1,22 @@
-### Hello World! 👋
+### Hello World! 👋  
 
-I'm a computer science student who is passionate about writing code, solving problems, and building software.
+I'm a **Software Developer** with **3 years of experience**, passionate about writing clean code, solving complex problems, and building scalable applications.  
 
-- 🔭 I’m currently a CS student at FET - GKV.
-- 📚 I’m currently learning **Data Structures and Algorithms. && OOPs**.
-- 👯 I’m looking to collaborate on **Open Source Project** || **Startup Idea's**.
+💻 **Tech Stack:**  
+- Backend: **Node.js, TypeScript, Express.js, MongoDB, MySQL, Redis**  
+- Frontend: **React.js, Next.js**  
+- DevOps & Tools: **Docker, AWS, PM2, Nginx, GitHub Actions**  
 
-## Connect with me:
+🚀 **What I Do:**  
+- **Full-Stack Development**: Building efficient, scalable, and secure web applications.  
+- **System Design & Architecture**: Designing high-performance, scalable systems.  
+- **Performance Optimization**: Improving app speed, database queries, and caching strategies.  
+
+📚 **Currently Learning:**  
+- Advanced **System Design & Microservices**  
+- Exploring **Cloud Architecture & Distributed Systems**  
+
+📬 **Let's Connect:**  
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/cap-pool/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
